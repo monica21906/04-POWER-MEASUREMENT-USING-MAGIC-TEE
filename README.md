@@ -61,18 +61,27 @@ Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
-**F.	Observation: ( Include your own Table relevant to the Experiment)**
-
-**Isolation measurement** (Tabulation)
-
-**Measurement of power division** (Tabulation)
+**F.	Observation: 
 
 
-**G.	Analysis of Results: (Write your own)**
 
-(Include sample calculations/Display/plot/typical graph)
+**Isolation measurement** 
 
-**H.	Conclusions: (Write your Own)**
+<img width="1076" height="204" alt="image" src="https://github.com/user-attachments/assets/55243931-1e61-4086-a239-10e380280b0b" />
+
+
+
+**Measurement of power division**
+
+<img width="1080" height="224" alt="image" src="https://github.com/user-attachments/assets/1d004d4b-8bfa-46d1-b4fe-e511012f75e7" />
+
+
+
+**G.	Analysis of Results: **
+
+Isolation = A₁ − A₂ = 20.0 − 1.0 = 19.0 dB. Interpretation: only ~1/79 of the power fed into the E-arm appears at the H-arm (good isolation). Power division (coupling to collinear arm) = A₁ − A₂ = 20.0 − 17.0 = 3.0 dB. Interpretation: input power splits equally between the two collinear arms (each receives ≈ half the power).
+
+**H.	Conclusions: **
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
 Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
@@ -84,3 +93,8 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 •	Observation should be taken properly.
 
 **Result:**
+Isolation between E and H arms ≈ 19 dB,
+
+power division in the collinear arms ≈ 3 dB (equal split).
+
+Thus, the experiment executed successfully.
